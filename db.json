@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "id": "2a951d3f-5330-4c39-a799-365221f4bed8",
+      "documentName": "teste",
+      "userType": "Pessoa Jurídica",
+      "cnpj": "56.322.711/0001-37",
+      "socialReason": "teste",
+      "cep": "12312312",
+      "street": "tesete",
+      "addressNumber": "12",
+      "city": "teste",
+      "uf": "es"
+    },
+    {
+      "id": "2228e0f5-1440-4cbf-868a-b2242282865a",
+      "documentName": "teste",
+      "userType": "Pessoa Jurídica",
+      "cnpj": "56.322.711/0001-37",
+      "socialReason": "teste",
+      "cep": "123123",
+      "street": "teste",
+      "addressNumber": "123",
+      "city": "teste",
+      "uf": "es"
+    }
+  ]
+}
